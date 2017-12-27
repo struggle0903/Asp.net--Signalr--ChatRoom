@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $("#submit").on('click', function () {
+            var LoginId = $("#userName").val();
+            var Pwd = $("#pwd").val();
+            $.post("/Account/Login", { "LoginId": LoginId, "Pwd": Pwd }, function (statu) {
+                if (statu == "登录失败")
+                    alert(statu);
+            })
+        })
+
+    })
+
+</script>
+
+<body style="margin:auto;margin-top:150px;">
+    <div>
+        用户名：
+        <input type="text" placeholder="用户名" id="userName" />
+    </div>
+    <div style="margin-top:15px;">
+        密 码：&nbsp;&nbsp;
+        <input type="password" placeholder="密码" id="pwd" />
+    </div>
+    <div style="margin-top:20px;">
+        <input type="button" value="Login" id="submit" style="width:90px;margin-left:80px;"/>
+    </div>
+</body>
+

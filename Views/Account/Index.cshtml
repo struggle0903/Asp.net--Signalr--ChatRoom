@@ -1,0 +1,95 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = null;
+}
+
+
+<script src="~/Scripts/jquery-2.2.2.min.js"></script>
+<script src="~/Scripts/jquery.signalR-2.2.2.min.js"></script>
+
+ <!--这里要注意,这是虚拟目录,也就是你在OWIN Startup中注册的地址-->
+<script src="/signalr/hubs"></script>
+
+<script type="text/javascript">
+    var chat;
+
+    $(function () {
+        // 获取用户名称。
+        // $('#username').html(prompt('请输入您的名称:', ''));
+        var username = '我是测试用户 ' + Math.ceil(Math.random() * 100);
+        $('#hiddenVal').attr('value', username);
+
+        $.connection.hub.qs = { 'username': username };
+        //chat = $.connection.chatRoomHub;//连接地址
+        chat = $.connection.DbchatRoomHub;
+
+        //服务连接上后的操作
+        $.connection.hub.start().done(function () {
+            chat.server.getOnlinesUser();
+        });
+
+        //获取当前在线的用户
+        chat.client.GetOnlinesUser = function (data) {
+            if (data)
+            {
+                var jsondata = $.parseJSON(data);
+                $("#OnLineUser").html(" ");
+                for (var i = 0; i < jsondata.length; i++) {
+                    var html = '<li>' + jsondata[i].UserName + '</li>';
+                    $("#OnLineUser").append(html);
+                }
+            }
+        }
+
+        //发送消息
+        chat.client.sendMessage = function (roomname, message) {
+            var html = '<li>' + message + '</li></br>';
+            $("#messageContext").append(html);
+        };
+
+        chat.client.joinRoom = function (roomname) {
+            $(".Name").text(roomname);
+        };
+
+        $("#btnSend").click(function () {
+            var roomname = $(".Name").text();
+            var message = $("#message").val();
+            var username = $("#hiddenVal").attr('value');
+            message = username + ":  " + message;
+            chat.server.sendMessage(roomname, message);
+            $("#message").val('');
+            $("#message").focus();
+        })
+       
+
+    });
+
+
+
+</script>
+
+<body style="margin-left:240px;">
+    <input type="hidden" id="hiddenVal" value="" />
+    <div>欢迎来到<label class="Name"></label></div>
+    <div style="margin-top:40px;">
+        <div style="float:left">
+            <div id="messageContext" style="width:450px;height:400px;border:1px solid #808080">
+                <ul id="messageContext">
+
+                </ul>
+            </div>
+        </div>
+        <div style="width:190px;height:400px;border:1px solid #808080;float:right;margin-right:400px;">
+            在线的用户：
+           <ul id="OnLineUser">
+
+           </ul>
+        </div>
+    </div>
+    <div>
+        <input type="text" id="message" style="width:300px;height:30px;border:1px solid #808080" />
+        <input type="button" value="发 送" id="btnSend" />
+    </div>
+</body>
+

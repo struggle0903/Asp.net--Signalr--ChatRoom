@@ -1,0 +1,212 @@
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\ApplicationInsights.config
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\roslyn\csc.exe
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\roslyn\vbc.exe
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\roslyn\VBCSCompiler.exe
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\SignalrStudy.dll.config
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\SignalrStudy.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\SignalrStudy.pdb
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.AI.Web.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.ApplicationInsights.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\System.Web.Helpers.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\System.Web.Mvc.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\System.Web.Razor.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.Deployment.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.Razor.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.AI.Web.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.ApplicationInsights.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\System.Web.Razor.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.Deployment.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.Razor.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\System.Web.Helpers.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\System.Web.Mvc.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Webpages.resources.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\obj\Debug\SignalrStudy.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\obj\Debug\SignalrStudy.pdb
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\EntityFramework.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\EntityFramework.SqlServer.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\EntityFramework.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\EntityFramework.SqlServer.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.Security.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Newtonsoft.Json.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Owin.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.Security.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Newtonsoft.Json.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\apple\Desktop\SignalR\SignalrStudy\SignalrStudy\SignalrStudy\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\ApplicationInsights.config
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\SignalrStudy.dll.config
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\SignalrStudy.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\SignalrStudy.pdb
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Owin.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.Razor.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.Razor.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Webpages.resources.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\obj\Debug\SignalrStudy.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\obj\Debug\SignalrStudy.dll
+C:\Users\Administrator\Desktop\SignalrStudy\SignalrStudy\obj\Debug\SignalrStudy.pdb
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\ApplicationInsights.config
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\roslyn\csc.exe
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\roslyn\System.Collections.Immutable.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\roslyn\System.Reflection.Metadata.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\roslyn\vbc.exe
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\roslyn\VBCSCompiler.exe
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\roslyn\VBCSCompiler.exe.config
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\SignalrStudy.dll.config
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\SignalrStudy.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\SignalrStudy.pdb
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\EntityFramework.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\EntityFramework.SqlServer.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.AI.Agent.Intercept.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.AI.DependencyCollector.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.AI.Web.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.AI.WindowsServer.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.ApplicationInsights.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.Security.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.Web.Infrastructure.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Newtonsoft.Json.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Owin.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\System.Web.Helpers.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\System.Web.Mvc.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\System.Web.Razor.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.Deployment.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.Razor.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\EntityFramework.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\EntityFramework.SqlServer.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.AI.DependencyCollector.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.AI.Web.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.AI.WindowsServer.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.ApplicationInsights.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Microsoft.Owin.Security.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\Newtonsoft.Json.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\System.Web.Razor.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.Deployment.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\System.Web.Webpages.Razor.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\System.Web.Helpers.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\System.Web.Mvc.xml
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\zh-Hans\EntityFramework.resources.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Webpages.resources.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\obj\Debug\SignalrStudy.csprojResolveAssemblyReference.cache
+D:\2017  学习\SignalrStudy\SignalrStudy\obj\Debug\SignalrStudy.dll
+D:\2017  学习\SignalrStudy\SignalrStudy\obj\Debug\SignalrStudy.pdb
